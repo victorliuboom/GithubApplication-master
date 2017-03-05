@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="search">搜索</string>
+    <string name="search_hint">请输入字词搜索</string>
+    <string name="no_users">没有搜到任何用户</string>
+    <string name="user_name">用户名</string>
+    <string name="preference_language">偏好语言</string>
+    <string name="loading">加载中…</string>
+    <string name="name">名称</string>
+    <string name="language">语言</string>
+    <string name="description">描述</string>
+    <string name="privateX">私有</string>
+    <string name="publicX">公开</string>
+</resources>
